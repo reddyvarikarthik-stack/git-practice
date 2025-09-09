@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Line from me my-branch
+=======
+Line form teammate
+>>>>>>> 17e09d3c5f4bc8e68f19d42368786e5035be32e8
