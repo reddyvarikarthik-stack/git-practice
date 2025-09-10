@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is from main in day3
+=======
+Hello this is branch day3
+>>>>>>> branch-day3
